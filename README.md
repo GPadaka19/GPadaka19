@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=GPadaka19&label=Visitors&color=16b13d&style=plastic" alt="gpadaka19" />
 </p>
 
