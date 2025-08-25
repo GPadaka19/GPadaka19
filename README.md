@@ -56,12 +56,8 @@
 ---
 
 <h3 align="center">GitHub Stats:</h3>
-<p align="left">
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GPadaka19&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
-<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=GPadaka19&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPadaka19" alt="GitHub Streak" />
-</p> -->
+</div>
