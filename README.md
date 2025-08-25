@@ -1,6 +1,3 @@
-<h1 align="center">Hi Everyone 👋, My Name is Gusti Padaka</h1>
-<h3 align="center">Informatics Student at Amikom Yogyakarta</h3>
-
 <img align="right" alt="Coding" width="600" src="carbon.png">
 
 <p align="left">
