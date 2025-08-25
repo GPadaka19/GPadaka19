@@ -57,19 +57,12 @@
 
 <h3 align="center">GitHub Stats:</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GPadaka19&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GPadaka19&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=GPadaka19&theme=dark" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GPadaka19&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GPadaka19&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GPadaka19&theme=dark" alt="GitHub Streak" />
+</p>
 
