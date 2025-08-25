@@ -1,13 +1,6 @@
-<img align="right" alt="Coding" width="600" src="carbon.png">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GPadaka19&label=Visitors&color=16b13d&style=plastic" alt="gpadaka19" />
+<p align="center">
+  <img alt="Coding" width="600" src="carbon.png" />
 </p>
-
----
-
-- 🌱 Currently learning **Front-end & Back-end Development**  
-- 📫 Reach me at **gustipadaka19@gmail.com**
 
 ---
 
@@ -61,4 +54,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GPadaka19&theme=dark" alt="GitHub Streak" />
 </p>
-
