@@ -55,7 +55,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GPadaka19&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
