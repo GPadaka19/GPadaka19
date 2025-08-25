@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone 👋, My Name is Gusti Padaka</h1>
 <h3 align="center">Informatics Student at Amikom Yogyakarta</h3>
 
-<img align="right" alt="Coding" width="300" src="https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=night-owl&wt=none&l=application%2Ftypescript&width=650&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=false&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=import%2520React%2520from%2520%2522react%2522%253B%250A%250Afunction%2520App%28%29%2520%257B%250A%2520%2520return%2520%253Ch1%253EHello%252C%2520World%21%253C%252Fh1%253E%253B%250A%257D%250A%250Aexport%2520default%2520App%253B">
+<img align="right" alt="Coding" width="300" src="carbon.png">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=GPadaka19&label=Visitors&color=16b13d&style=plastic" alt="gpadaka19" />
