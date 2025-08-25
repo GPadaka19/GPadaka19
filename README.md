@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone 👋, My Name is Gusti Padaka</h1>
 <h3 align="center">Informatics Student at Amikom Yogyakarta</h3>
 
-<img align="right" alt="Coding" width="300" src="carbon.png">
+<img align="right" alt="Coding" width="600" src="carbon.png">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=GPadaka19&label=Visitors&color=16b13d&style=plastic" alt="gpadaka19" />
